@@ -1,13 +1,13 @@
-# ISO_II
+# ISO_II  
 Repositorio usado para proyectos de ISO_II
 
-ALUMNOS:
-Raúl Santiago Roldán
-Samuel Rodero Ballesteros
-Alejandro Rodríguez Santos
-Alejandro Róspide Álvarez
-Kevin Ruedas Villanueva
-Jaime Sesmero Verbo
+ALUMNOS:  
+Raúl Santiago Roldán  
+Samuel Rodero Ballesteros  
+Alejandro Rodríguez Santos  
+Alejandro Róspide Álvarez  
+Kevin Ruedas Villanueva  
+Jaime Sesmero Verbo  
 
-GRUPO:
+GRUPO:  
 Lab_C1
