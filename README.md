@@ -1,4 +1,4 @@
-# ISO_II  
+# ISO24-ISO2-C01  
 Repositorio usado para proyectos de ISO_II
 
 ALUMNOS:  
