@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>es.UCLM.esi.ISO2.C01</groupId>
+  <artifactId>Servidor</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Servidor</name>
+  <modules>
+    <module>Componente01</module>
+    <module>Componente02</module>
+    <module>Componente03</module>
+    <module>Componente04</module>
+    <module>Componente05</module>
+    <module>Componente06</module>
+    <module>Componente07</module>
+    <module>Componente08</module>
+    <module>Componente09</module>
+    <module>Componente10</module>
+    <module>Componente11</module>
+    <module>Componente12</module>
+    <module>Componente13</module>
+    <module>Componente14</module>
+    <module>Componente15</module>
+    <module>Componente16</module>
+  </modules>
+</project>
