@@ -1,3 +1,5 @@
+package es.UCLM.esi.ISO2.C01.Dominio;
+
 public class Colaborador {
 	private String _iD;
 	private String _nombre;

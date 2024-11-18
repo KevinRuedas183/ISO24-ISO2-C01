@@ -1,3 +1,5 @@
+package es.UCLM.esi.ISO2.C01.Dominio;
+
 public class PropietarioDatos {
 	private String _dNI;
 	private String[] _nombreYApellidos;
