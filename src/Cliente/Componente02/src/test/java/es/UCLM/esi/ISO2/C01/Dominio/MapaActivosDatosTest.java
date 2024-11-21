@@ -1,5 +1,7 @@
 package es.UCLM.esi.ISO2.C01.Dominio;
 
+package es.UCLM.esi.ISO2.C01.Dominio;
+
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
@@ -7,7 +9,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Unit test for simple App.
  */
-public class PropietarioDatosTest {
+public class MapaActivosDatosTest {
 
     /**
      * Rigorous Test :-)
