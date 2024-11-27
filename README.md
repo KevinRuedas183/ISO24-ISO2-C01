@@ -1,8 +1,8 @@
-# ISO24-ISO2-C01-PROBLEMA1
+# ISO24-ISO2-C01
 
-Repositorio usado para el testing del Problema 1 de ISO-II.  
+Repositorio usado para el equipo de ISO2 C01.
 
-## ALUMNOS:  
+## ALUMNOS DEL EQUIPO:  
 Raúl Santiago Roldán  
 Samuel Rodero Ballesteros  
 Alejandro Rodríguez Santos  
