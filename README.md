@@ -14,6 +14,6 @@ Jaime Sesmero Verbo
 Lab_C1
 
 ## REPOSITORIOS DE LOS PROBLEMAS DE TESTING:
-[REPOSITORIO PROBLEMA 1](https://github.com/KevinRuedas183/ISO24-ISO2-C01-PROBLEMA1.git)  
-[REPOSITORIO PROBLEMA 2](https://github.com/KevinRuedas183/ISO24-ISO2-C01-PROBLEMA2.git)  
-[REPOSITORIO PROBLEMA 3](https://github.com/KevinRuedas183/ISO24-ISO2-C01-PROBLEMA3.git)
+[REPOSITORIO PROBLEMA 1](https://github.com/KevinRuedas183/ISO2-2024-C01-Testing-P1.git)  
+[REPOSITORIO PROBLEMA 2](https://github.com/KevinRuedas183/ISO2-2024-C01-Testing-P2.git)  
+[REPOSITORIO PROBLEMA 3](https://github.com/KevinRuedas183/ISO2-2024-C01-Testing-P3.git)
